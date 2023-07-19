@@ -1,0 +1,43 @@
+#backgroundMusic{
+    position:absolute;
+    transform:translate(362%,1350%);
+}
+#background{
+    width:101.46%;
+    height:101.04%;
+    position:absolute;
+    transform:translate(-2%,-2%);
+    margin:0px;
+    background-color:black;
+}
+#roseBackground1{
+    width:50%;
+    height:99.5%;
+    margin:0px;
+    position:absolute;
+    opacity:50%;
+}
+#roseBackground2{
+    width:50%;
+    height:99.5%;
+    margin:0px;
+    position:absolute;
+    transform:translate(99.96%,0%);
+    opacity:50%;
+}
+.buttons{
+    width:auto;
+    height:auto;
+    font-size:40px;
+    border:0px;
+    border-radius:20px;
+    background-color:white;
+    color:black;
+    margin:0px 10px;
+    padding:0px 10px;
+    font-family:"Roboto Slab";
+    text-decoration:none;
+}
+.buttons:hover{
+    box-shadow:0px 0px 25px white;
+}

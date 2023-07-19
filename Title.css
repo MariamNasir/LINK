@@ -1,0 +1,37 @@
+#titleContainer{
+    border:3px solid white;
+    width:75%;
+    height:75%;
+    position:absolute;
+    top:50%;
+    transform:translate(15%,-50%);
+    text-align:center;
+    background-color:black;
+    box-shadow:0px 0px 20px white;
+}
+#title{
+    font-size:250px;
+    color:white;
+    text-align:center;
+    font-family:"Dancing Script";
+    font-weight:lighter;
+    margin:0%;
+}
+#titleRoseBorderLeft{
+    width:225px;
+    height:250px;
+    transform:scaleY(-1) translate(47.5%,-20%);
+}
+#titleRoseBorderRight{
+    width:225px;
+    height:250px;
+    transform:rotate(180deg) translate(-360%,-20%);
+}
+#titleRoseDecal{
+    transform:translate(0%,-30%);
+    width:450px;
+}
+#buttonContainer{
+    text-align:center;
+    margin-top:25px;
+}
